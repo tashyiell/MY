@@ -1,6 +1,6 @@
 body {
 
-    background-image: url("C:/xampp/htdocs/cvfile/IMG-20241007-WA0065.jpg");
+    background-image: url("IMG-20241007-WA0065.jpg");
     background-position: center;
     background-repeat: no-repeat;
     font-family: Arial, sans-serif;
@@ -21,7 +21,7 @@ body {
 .container {
     max-width: 400px;
     padding: 20px;
-    background-image: url("C:/xampp/htdocs/cvfile/IMG-20241007-WA0065.jpg") ;
+    background-image: url("IMG-20241007-WA0065.jpg") ;
     background-size: contain;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
