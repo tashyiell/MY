@@ -19,7 +19,7 @@ body {
     height: 300px;
     position: relative;
     transform: rotate(45deg); /* Rotate to form a diamond shape */
-    background-image: url("C:/xampp/htdocs/cvfile/IMG-20241007-WA0035.jpg");
+    background-image: url("IMG-20241007-WA0035.jpg");
     background-size: contain;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
